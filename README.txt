@@ -1,0 +1,2 @@
+En esta prueba me senti que hasta cosas basicas que habiamos visto desde antes se me habian olvidado, demore media hora en saber como crear el metodo constructor, algo que al recordar me di cuenta que es muy facil, y son cosas que se olvidan sin la practica, recorde muchas cosas,
+las cuales fui reconociendo poco a poco, incluso podria decir que esta prueba me ayudo a refrescar esos temas que hace mucho no tocabamos, esa logica de programacion POO.
